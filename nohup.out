@@ -1,0 +1,26 @@
+[1;33mCompiling bot_mind...[0m 
+[0;32m===> Verifying dependencies...
+[0m[0;32m===> Analyzing applications...
+[0m[0;32m===> Compiling bot_mind
+[0m[0;32m✓ Compilation successful[0m 
+[1;33mStarting bot_mind server...[0m 
+[0;34mServer will be available on port 5555[0m 
+[0;34mPress Ctrl+C to stop[0m 
+Starting bot_mind server...
+Creating table 'cell'
+Table 'cell' created: {atomic,ok}
+Creating table 'bot'
+Table 'bot' created: {atomic,ok}
+Creating table 'reservation'
+Table 'reservation' created: {atomic,ok}
+Cleared existing cell table data
+Grid setup complete: 81/81 cells created
+bot_comm_listener listening on port 5555
+Server ready!
+Server started successfully on port 5555!
+Press Ctrl+C to stop the server
+
+========================================
+    Server shell started...
+========================================
+server> make: *** [run] Hangup: 1
